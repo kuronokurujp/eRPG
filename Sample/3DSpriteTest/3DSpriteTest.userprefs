@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Enemy/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Script/System/NotificationCenter.cs" Line="68" Column="71" />
+      <File FileName="Assets/Script/Hero/Hero.cs" Line="20" Column="1" />
+      <File FileName="Assets/Script/Char/CharCtrl.cs" Line="54" Column="1" />
+      <File FileName="Assets/Script/Player/Action/ActionList.cs" Line="33" Column="2" />
+      <File FileName="Assets/Script/Player/Action/Move/MoveAxisAction.cs" Line="19" Column="10" />
+      <File FileName="Assets/Script/Player/Player.cs" Line="122" Column="19" />
+      <File FileName="Assets/Script/Player/Action/ManagerAction.cs" Line="29" Column="6" />
+      <File FileName="Assets/Script/Enemy/Enemy.cs" Line="33" Column="1" />
+      <File FileName="Assets/Script/Player/PlayerInput.cs" Line="10" Column="27" />
+      <File FileName="Assets/Script/Hero/HeroInput.cs" Line="35" Column="3" />
+      <File FileName="Assets/Script/Enemy/EnemyInput.cs" Line="19" Column="8" />
+      <File FileName="Assets/Script/Player/Action/Damage/NormalDmgAction.cs" Line="34" Column="4" />
+      <File FileName="Assets/Script/Player/Action/Other/DieAction.cs" Line="25" Column="3" />
+      <File FileName="Assets/Script/Player/Action/Other/BaseAction.cs" Line="18" Column="2" />
+      <File FileName="Assets/Script/Scene/SceneCtrl.cs" Line="97" Column="2" />
+      <File FileName="Assets/Script/Player/Action/Other/IdleAction.cs" Line="15" Column="10" />
+      <File FileName="Assets/Script/GUI/GameOverGUI.cs" Line="38" Column="3" />
+      <File FileName="Assets/Script/System/AspectCam.cs" Line="23" Column="3" />
+      <File FileName="Assets/Script/System/RectifyScreenGUI.cs" Line="4" Column="30" />
+      <File FileName="Assets/Script/Char/Sprite3D.cs" Line="36" Column="1" />
+      <File FileName="Assets/Script/Player/Action/Attack/NormalAtkAction.cs" Line="85" Column="2" />
+      <File FileName="Assets/Script/GUI/GamePauseGUI.cs" Line="32" Column="1" />
+      <File FileName="Assets/Script/GUI/GameStartGUI.cs" Line="33" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
